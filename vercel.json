@@ -1,7 +1,7 @@
 {
   "functions": {
     "api/index.js": {
-      "runtime": "node@21"
+      "runtime": "node@21.0.0"
     }
   }
 }
